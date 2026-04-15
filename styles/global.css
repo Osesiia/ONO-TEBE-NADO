@@ -3,9 +3,9 @@
     padding: 0;
     box-sizing: border-box; /* Сброс всех стандартных отступов и границ */
 }
-a {
-    text-decoration: none; /* Ссылки без подчеркивания по умолчанию */
-}
+/*a {
+    text-decoration: none; Ссылки без подчеркивания по умолчанию
+}*/
 ul, ol {
     list-style: none; /* Списки без маркеров */
 }
