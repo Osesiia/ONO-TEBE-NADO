@@ -7,3 +7,5 @@
 - `styles/` — CSS (global.css, style.css)
 - `fonts/` — шрифты
 - `images/` — картинки
+Ссылка на репозиторий:
+https://github.com/Osesiia/ONO-TEBE-NADO
